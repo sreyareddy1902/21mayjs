@@ -1,0 +1,26 @@
+body{
+	background-color: blue;
+}
+.container
+{
+	width: 420px;
+	height: 450px;
+	background-color: white;
+	margin-top: 50px;
+}
+.container h2{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.form-group label{
+	margin-top: 40px;
+	font-weight: 500;
+}
+.form-group #oamount{
+	width: 100%;
+	margin-right: 20px;
+}
+.m-2{
+	width: 25%;
+}
